@@ -1,0 +1,35 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>60 Minute Power Zone - Matt Wilpers - 11/13/21 @ 8:00AM ET</name>
+    <description>A 60 Minute Power Zone taught by Matt Wilpers.  Originally aired on 11/13/21 @ 8:00AM ET.  Estimated TSS of 75.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/532</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="255" Power="0.5"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="18" Power="0.45"/>
+          <SteadyState Duration="27" Power="0.5"/>
+          <SteadyState Duration="17" Power="0.45"/>
+          <SteadyState Duration="28" Power="0.5"/>
+          <SteadyState Duration="15" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="121" Power="0.65"/>
+          <SteadyState Duration="59" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="360" Power="0.97"/>
+          <SteadyState Duration="182" Power="0.65"/>
+          <SteadyState Duration="298" Power="0.97"/>
+          <SteadyState Duration="181" Power="0.65"/>
+          <SteadyState Duration="239" Power="0.97"/>
+          <SteadyState Duration="241" Power="0.45"/>
+          <SteadyState Duration="358" Power="0.97"/>
+          <SteadyState Duration="180" Power="0.65"/>
+          <SteadyState Duration="301" Power="0.97"/>
+          <SteadyState Duration="181" Power="0.65"/>
+          <SteadyState Duration="239" Power="0.97"/>
+          <Cooldown Duration="60" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

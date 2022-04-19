@@ -1,0 +1,38 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute Power Zone - Denis Morton - 08/31/21 @ 8:00AM ET</name>
+    <description>A 45 Minute Power Zone taught by Denis Morton.  Originally aired on 08/31/21 @ 8:00AM ET.  Estimated TSS of 60.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/496</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="243" Power="0.5"/>
+          <SteadyState Duration="32" Power="0.5"/>
+          <SteadyState Duration="26" Power="0.45"/>
+          <SteadyState Duration="32" Power="0.5"/>
+          <SteadyState Duration="27" Power="0.45"/>
+          <SteadyState Duration="32" Power="0.5"/>
+          <SteadyState Duration="32" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="92" Power="0.45"/>
+          <SteadyState Duration="57" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="1.13"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="117" Power="1.13"/>
+          <SteadyState Duration="181" Power="0.83"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="119" Power="1.13"/>
+          <SteadyState Duration="121" Power="0.83"/>
+          <SteadyState Duration="119" Power="0.45"/>
+          <SteadyState Duration="122" Power="1.13"/>
+          <SteadyState Duration="180" Power="0.83"/>
+          <SteadyState Duration="121" Power="0.45"/>
+          <SteadyState Duration="120" Power="1.13"/>
+          <SteadyState Duration="117" Power="0.83"/>
+          <SteadyState Duration="123" Power="0.45"/>
+          <SteadyState Duration="118" Power="1.13"/>
+          <SteadyState Duration="178" Power="0.83"/>
+          <Cooldown Duration="61" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

@@ -1,0 +1,27 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute PZ Endurance - Olivia Amato - 01/27/20 @ 11:30AM ET</name>
+    <description>A 30 Minute PZ Endurance taught by Olivia Amato.  Originally aired on 01/27/20 @ 11:30AM ET.  Estimated TSS of 32.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/68</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="173" Power="0.5"/>
+          <SteadyState Duration="19" Power="0.5"/>
+          <SteadyState Duration="19" Power="0.45"/>
+          <SteadyState Duration="19" Power="0.5"/>
+          <SteadyState Duration="28" Power="0.45"/>
+          <SteadyState Duration="20" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.45"/>
+          <SteadyState Duration="21" Power="0.5"/>
+          <SteadyState Duration="39" Power="0.45"/>
+          <SteadyState Duration="59" Power="0.65"/>
+          <SteadyState Duration="59" Power="0.83"/>
+          <SteadyState Duration="61" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="539" Power="0.83"/>
+          <SteadyState Duration="67" Power="0.45"/>
+          <SteadyState Duration="534" Power="0.83"/>
+          <Cooldown Duration="54" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

@@ -1,0 +1,17 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>20 Minute PZ Beginner - Matt Wilpers - 09/20/17 @ 3:30PM ET</name>
+    <description>A 20 Minute PZ Beginner taught by Matt Wilpers.  Originally aired on 09/20/17 @ 3:30PM ET.  Estimated TSS of 17.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/267</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<Warmup Duration="720" PowerLow="0.5" PowerHigh="0.7"/>
+          <SteadyState Duration="90" Power="0.65"/>
+          <SteadyState Duration="90" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="90" Power="0.83"/>
+          <SteadyState Duration="90" Power="0.97"/>
+          <Cooldown Duration="60" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

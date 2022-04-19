@@ -1,0 +1,13 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>1.1666666666667 Minute PZ Endurance - Matt Wilpers - 03/23/19 @ 6:00PM ET</name>
+    <description>A 1.1666666666667 Minute PZ Endurance taught by Matt Wilpers.  Originally aired on 03/23/19 @ 6:00PM ET.  Estimated TSS of 1.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/234</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<Warmup Duration="10" PowerLow="0.5" PowerHigh="0.7"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <Cooldown Duration="30" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

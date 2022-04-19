@@ -1,0 +1,40 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>75 Minute PZ Endurance - Matt Wilpers - 08/31/19 @ 12:45PM ET</name>
+    <description>A 75 Minute PZ Endurance taught by Matt Wilpers.  Originally aired on 08/31/19 @ 12:45PM ET.  Estimated TSS of 77.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/222</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="281" Power="0.5"/>
+          <SteadyState Duration="21" Power="0.5"/>
+          <SteadyState Duration="16" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="15" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="15" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="17" Power="0.45"/>
+          <SteadyState Duration="28" Power="0.5"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="90" Power="0.65"/>
+          <SteadyState Duration="90" Power="0.83"/>
+          <SteadyState Duration="59" Power="0.45"/>
+          <SteadyState Duration="420" Power="0.83"/>
+          <SteadyState Duration="181" Power="0.65"/>
+          <SteadyState Duration="297" Power="0.83"/>
+          <SteadyState Duration="183" Power="0.65"/>
+          <SteadyState Duration="418" Power="0.83"/>
+          <SteadyState Duration="182" Power="0.65"/>
+          <SteadyState Duration="299" Power="0.83"/>
+          <SteadyState Duration="179" Power="0.65"/>
+          <SteadyState Duration="181" Power="0.83"/>
+          <SteadyState Duration="180" Power="0.65"/>
+          <SteadyState Duration="299" Power="0.83"/>
+          <SteadyState Duration="179" Power="0.65"/>
+          <SteadyState Duration="181" Power="0.83"/>
+          <SteadyState Duration="181" Power="0.65"/>
+          <SteadyState Duration="299" Power="0.83"/>
+          <Cooldown Duration="60" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

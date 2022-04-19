@@ -1,0 +1,31 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute PZ Endurance - Matt Wilpers - 08/05/21 @ 6:00AM ET</name>
+    <description>A 30 Minute PZ Endurance taught by Matt Wilpers.  Originally aired on 08/05/21 @ 6:00AM ET.  Estimated TSS of 28.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/481</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="229" Power="0.5"/>
+          <SteadyState Duration="59" Power="0.5"/>
+          <SteadyState Duration="14" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.5"/>
+          <SteadyState Duration="14" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.5"/>
+          <SteadyState Duration="16" Power="0.45"/>
+          <SteadyState Duration="61" Power="0.5"/>
+          <SteadyState Duration="40" Power="0.45"/>
+          <SteadyState Duration="90" Power="0.65"/>
+          <SteadyState Duration="88" Power="0.83"/>
+          <SteadyState Duration="51" Power="0.45"/>
+          <SteadyState Duration="121" Power="0.83"/>
+          <SteadyState Duration="119" Power="0.65"/>
+          <SteadyState Duration="121" Power="0.83"/>
+          <SteadyState Duration="121" Power="0.65"/>
+          <SteadyState Duration="118" Power="0.83"/>
+          <SteadyState Duration="121" Power="0.65"/>
+          <SteadyState Duration="121" Power="0.83"/>
+          <SteadyState Duration="118" Power="0.65"/>
+          <Cooldown Duration="58" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

@@ -1,0 +1,31 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>60 Minute PZ Endurance - Christine D'Ercole - 03/21/21 @ 1:30PM ET</name>
+    <description>A 60 Minute PZ Endurance taught by Christine D'Ercole.  Originally aired on 03/21/21 @ 1:30PM ET.  Estimated TSS of 58.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/413</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="372" Power="0.5"/>
+          <SteadyState Duration="24" Power="0.5"/>
+          <SteadyState Duration="39" Power="0.45"/>
+          <SteadyState Duration="34" Power="0.5"/>
+          <SteadyState Duration="51" Power="0.45"/>
+          <SteadyState Duration="32" Power="0.5"/>
+          <SteadyState Duration="33" Power="0.45"/>
+          <SteadyState Duration="108" Power="0.65"/>
+          <SteadyState Duration="119" Power="0.83"/>
+          <SteadyState Duration="91" Power="0.45"/>
+          <SteadyState Duration="300" Power="0.65"/>
+          <SteadyState Duration="325" Power="0.83"/>
+          <SteadyState Duration="206" Power="0.65"/>
+          <SteadyState Duration="229" Power="0.83"/>
+          <SteadyState Duration="193" Power="0.65"/>
+          <SteadyState Duration="242" Power="0.83"/>
+          <SteadyState Duration="171" Power="0.65"/>
+          <SteadyState Duration="374" Power="0.83"/>
+          <SteadyState Duration="299" Power="0.65"/>
+          <SteadyState Duration="291" Power="0.83"/>
+          <Cooldown Duration="67" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

@@ -1,0 +1,36 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute Power Zone - Christine D'Ercole - 11/29/20 @ 1:30PM ET</name>
+    <description>A 45 Minute Power Zone taught by Christine D'Ercole.  Originally aired on 11/29/20 @ 1:30PM ET.  Estimated TSS of 54.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/358</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="303" Power="0.5"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="91" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="119" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="16" Power="0.45"/>
+          <SteadyState Duration="104" Power="0.65"/>
+          <SteadyState Duration="210" Power="0.97"/>
+          <SteadyState Duration="150" Power="0.65"/>
+          <SteadyState Duration="180" Power="0.97"/>
+          <SteadyState Duration="128" Power="0.65"/>
+          <SteadyState Duration="172" Power="0.97"/>
+          <SteadyState Duration="90" Power="0.65"/>
+          <SteadyState Duration="169" Power="0.97"/>
+          <SteadyState Duration="90" Power="0.65"/>
+          <SteadyState Duration="131" Power="0.97"/>
+          <SteadyState Duration="70" Power="0.65"/>
+          <SteadyState Duration="119" Power="0.97"/>
+          <SteadyState Duration="67" Power="0.65"/>
+          <SteadyState Duration="170" Power="0.97"/>
+          <Cooldown Duration="52" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

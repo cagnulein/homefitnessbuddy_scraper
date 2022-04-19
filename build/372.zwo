@@ -1,0 +1,21 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>15 Minute PZ Beginner - Matt Wilpers - 12/23/20 @ 10:00AM ET</name>
+    <description>A 15 Minute PZ Beginner taught by Matt Wilpers.  Originally aired on 12/23/20 @ 10:00AM ET.  Estimated TSS of 12.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/372</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="308" Power="0.5"/>
+          <SteadyState Duration="34" Power="0.5"/>
+          <SteadyState Duration="39" Power="0.45"/>
+          <SteadyState Duration="34" Power="0.5"/>
+          <SteadyState Duration="73" Power="0.45"/>
+          <SteadyState Duration="41" Power="0.5"/>
+          <SteadyState Duration="72" Power="0.45"/>
+          <SteadyState Duration="121" Power="0.65"/>
+          <SteadyState Duration="58" Power="0.83"/>
+          <SteadyState Duration="63" Power="0.97"/>
+          <Cooldown Duration="57" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

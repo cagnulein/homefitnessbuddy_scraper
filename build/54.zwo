@@ -1,0 +1,27 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute Power Zone - Matt Wilpers - 02/22/18 @ 6:00AM ET</name>
+    <description>A 45 Minute Power Zone taught by Matt Wilpers.  Originally aired on 02/22/18 @ 6:00AM ET.  Estimated TSS of 52.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/54</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<Warmup Duration="720" PowerLow="0.5" PowerHigh="0.7"/>
+          <SteadyState Duration="240" Power="0.97"/>
+          <SteadyState Duration="240" Power="0.83"/>
+          <SteadyState Duration="180" Power="0.97"/>
+          <SteadyState Duration="180" Power="0.83"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="120" Power="0.83"/>
+          <SteadyState Duration="240" Power="0.9"/>
+          <SteadyState Duration="120" Power="0.97"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <Cooldown Duration="60" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

@@ -1,0 +1,32 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute PZ Endurance - Denis Morton - 12/05/19 @ 8:00AM ET</name>
+    <description>A 45 Minute PZ Endurance taught by Denis Morton.  Originally aired on 12/05/19 @ 8:00AM ET.  Estimated TSS of 44.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/139</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="294" Power="0.5"/>
+          <SteadyState Duration="32" Power="0.5"/>
+          <SteadyState Duration="28" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="33" Power="0.45"/>
+          <SteadyState Duration="28" Power="0.5"/>
+          <SteadyState Duration="78" Power="0.45"/>
+          <SteadyState Duration="97" Power="0.65"/>
+          <SteadyState Duration="75" Power="0.83"/>
+          <SteadyState Duration="23" Power="0.45"/>
+          <SteadyState Duration="218" Power="0.83"/>
+          <SteadyState Duration="130" Power="0.65"/>
+          <SteadyState Duration="277" Power="0.83"/>
+          <SteadyState Duration="241" Power="0.65"/>
+          <SteadyState Duration="185" Power="0.83"/>
+          <SteadyState Duration="140" Power="0.65"/>
+          <SteadyState Duration="580" Power="0.83"/>
+          <Cooldown Duration="92" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

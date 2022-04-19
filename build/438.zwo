@@ -1,0 +1,34 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute PZ Endurance - Ben Alldis - 05/11/21 @ 1:30PM ET</name>
+    <description>A 45 Minute PZ Endurance taught by Ben Alldis.  Originally aired on 05/11/21 @ 1:30PM ET.  Estimated TSS of 46.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/438</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="202" Power="0.5"/>
+          <SteadyState Duration="33" Power="0.5"/>
+          <SteadyState Duration="18" Power="0.45"/>
+          <SteadyState Duration="32" Power="0.5"/>
+          <SteadyState Duration="19" Power="0.45"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="20" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="36" Power="0.45"/>
+          <SteadyState Duration="62" Power="0.65"/>
+          <SteadyState Duration="58" Power="0.83"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="299" Power="0.83"/>
+          <SteadyState Duration="121" Power="0.65"/>
+          <SteadyState Duration="299" Power="0.83"/>
+          <SteadyState Duration="120" Power="0.65"/>
+          <SteadyState Duration="241" Power="0.83"/>
+          <SteadyState Duration="120" Power="0.65"/>
+          <SteadyState Duration="240" Power="0.83"/>
+          <SteadyState Duration="119" Power="0.65"/>
+          <SteadyState Duration="180" Power="0.83"/>
+          <SteadyState Duration="122" Power="0.65"/>
+          <SteadyState Duration="179" Power="0.83"/>
+          <Cooldown Duration="59" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

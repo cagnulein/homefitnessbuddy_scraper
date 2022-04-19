@@ -1,0 +1,36 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute PZ Max - Matt Wilpers - 05/17/19 @ 10:30AM ET</name>
+    <description>A 30 Minute PZ Max taught by Matt Wilpers.  Originally aired on 05/17/19 @ 10:30AM ET.  Estimated TSS of 41.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/123</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="261" Power="0.5"/>
+          <SteadyState Duration="25" Power="0.5"/>
+          <SteadyState Duration="14" Power="0.45"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="15" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="16" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="48" Power="0.45"/>
+          <SteadyState Duration="41" Power="0.83"/>
+          <SteadyState Duration="63" Power="0.97"/>
+          <SteadyState Duration="27" Power="1.13"/>
+          <SteadyState Duration="31" Power="1.35"/>
+          <SteadyState Duration="91" Power="0.45"/>
+          <SteadyState Duration="29" Power="1.35"/>
+          <SteadyState Duration="180" Power="0.97"/>
+          <SteadyState Duration="10" Power="1.55"/>
+          <SteadyState Duration="175" Power="0.45"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="181" Power="0.97"/>
+          <SteadyState Duration="10" Power="1.55"/>
+          <SteadyState Duration="175" Power="0.45"/>
+          <SteadyState Duration="28" Power="1.35"/>
+          <SteadyState Duration="181" Power="0.97"/>
+          <SteadyState Duration="10" Power="1.55"/>
+          <Cooldown Duration="70" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

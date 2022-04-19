@@ -1,0 +1,42 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>90 Minute PZ Endurance - Matt Wilpers - 01/08/22 @ 7:30AM ET</name>
+    <description>A 90 Minute PZ Endurance taught by Matt Wilpers.  Originally aired on 01/08/22 @ 7:30AM ET.  Estimated TSS of 95.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/554</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="210" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="17" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="13" Power="0.45"/>
+          <SteadyState Duration="17" Power="0.5"/>
+          <SteadyState Duration="17" Power="0.45"/>
+          <SteadyState Duration="27" Power="0.5"/>
+          <SteadyState Duration="17" Power="0.45"/>
+          <SteadyState Duration="28" Power="0.5"/>
+          <SteadyState Duration="75" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="59" Power="0.45"/>
+          <SteadyState Duration="241" Power="0.83"/>
+          <SteadyState Duration="180" Power="0.65"/>
+          <SteadyState Duration="360" Power="0.83"/>
+          <SteadyState Duration="180" Power="0.65"/>
+          <SteadyState Duration="480" Power="0.83"/>
+          <SteadyState Duration="181" Power="0.65"/>
+          <SteadyState Duration="239" Power="0.83"/>
+          <SteadyState Duration="180" Power="0.65"/>
+          <SteadyState Duration="360" Power="0.83"/>
+          <SteadyState Duration="180" Power="0.65"/>
+          <SteadyState Duration="480" Power="0.83"/>
+          <SteadyState Duration="181" Power="0.65"/>
+          <SteadyState Duration="239" Power="0.83"/>
+          <SteadyState Duration="180" Power="0.65"/>
+          <SteadyState Duration="360" Power="0.83"/>
+          <SteadyState Duration="180" Power="0.65"/>
+          <SteadyState Duration="480" Power="0.83"/>
+          <Cooldown Duration="60" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

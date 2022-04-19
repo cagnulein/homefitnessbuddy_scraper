@@ -1,0 +1,65 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute PZ Max - Christine D'Ercole - 10/20/21 @ 12:00PM ET</name>
+    <description>A 45 Minute PZ Max taught by Christine D'Ercole.  Originally aired on 10/20/21 @ 12:00PM ET.  Estimated TSS of 66.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/520</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="284" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="19" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="149" Power="0.65"/>
+          <SteadyState Duration="90" Power="0.83"/>
+          <SteadyState Duration="68" Power="0.97"/>
+          <SteadyState Duration="52" Power="1.13"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="110" Power="0.45"/>
+          <SteadyState Duration="120" Power="0.83"/>
+          <SteadyState Duration="73" Power="1.13"/>
+          <SteadyState Duration="77" Power="0.83"/>
+          <SteadyState Duration="56" Power="1.13"/>
+          <SteadyState Duration="27" Power="0.83"/>
+          <SteadyState Duration="30" Power="1.13"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="248" Power="0.45"/>
+          <SteadyState Duration="19" Power="1.35"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="29" Power="1.35"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="29" Power="1.35"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="29" Power="0.45"/>
+          <SteadyState Duration="31" Power="1.35"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="28" Power="1.35"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="29" Power="1.35"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="31" Power="1.35"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="29" Power="1.35"/>
+          <SteadyState Duration="32" Power="0.45"/>
+          <SteadyState Duration="28" Power="1.35"/>
+          <SteadyState Duration="29" Power="0.45"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="31" Power="1.55"/>
+          <Cooldown Duration="79" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

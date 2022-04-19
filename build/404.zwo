@@ -1,0 +1,116 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>90 Minute PZ Max - Matt Wilpers - 04/27/19 @ 12:45PM ET</name>
+    <description>A 90 Minute PZ Max taught by Matt Wilpers.  Originally aired on 04/27/19 @ 12:45PM ET.  Estimated TSS of 123.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/404</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="180" Power="0.5"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="60" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="1.13"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.65"/>
+          <SteadyState Duration="30" Power="0.83"/>
+          <SteadyState Duration="30" Power="0.97"/>
+          <SteadyState Duration="30" Power="1.13"/>
+          <SteadyState Duration="30" Power="0.97"/>
+          <SteadyState Duration="30" Power="0.83"/>
+          <SteadyState Duration="30" Power="0.65"/>
+          <SteadyState Duration="30" Power="0.83"/>
+          <SteadyState Duration="30" Power="0.97"/>
+          <SteadyState Duration="30" Power="1.13"/>
+          <SteadyState Duration="30" Power="0.97"/>
+          <SteadyState Duration="30" Power="0.83"/>
+          <SteadyState Duration="30" Power="0.65"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="180" Power="0.9"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="45" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="120" Power="0.65"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="150" Power="0.83"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="150" Power="0.83"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <SteadyState Duration="150" Power="0.83"/>
+          <SteadyState Duration="15" Power="1.55"/>
+          <Cooldown Duration="180" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

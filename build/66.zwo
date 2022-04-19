@@ -1,0 +1,27 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute PZ Endurance - Christine D'Ercole - 01/30/20 @ 10:00AM ET</name>
+    <description>A 30 Minute PZ Endurance taught by Christine D'Ercole.  Originally aired on 01/30/20 @ 10:00AM ET.  Estimated TSS of 31.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/66</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="218" Power="0.5"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="20" Power="0.45"/>
+          <SteadyState Duration="40" Power="0.65"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="51" Power="0.45"/>
+          <SteadyState Duration="240" Power="0.83"/>
+          <SteadyState Duration="120" Power="0.65"/>
+          <SteadyState Duration="300" Power="0.83"/>
+          <SteadyState Duration="120" Power="0.65"/>
+          <SteadyState Duration="361" Power="0.83"/>
+          <Cooldown Duration="58" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

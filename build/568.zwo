@@ -1,0 +1,43 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute Power Zone - Christine D'Ercole - 02/06/22 @ 1:30PM ET</name>
+    <description>A 45 Minute Power Zone taught by Christine D'Ercole.  Originally aired on 02/06/22 @ 1:30PM ET.  Estimated TSS of 62.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/568</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="241" Power="0.5"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="28" Power="0.45"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.45"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="90" Power="0.45"/>
+          <SteadyState Duration="90" Power="0.65"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="61" Power="0.97"/>
+          <SteadyState Duration="29" Power="1.13"/>
+          <SteadyState Duration="59" Power="0.45"/>
+          <SteadyState Duration="178" Power="0.65"/>
+          <SteadyState Duration="148" Power="0.83"/>
+          <SteadyState Duration="239" Power="0.97"/>
+          <SteadyState Duration="225" Power="1.13"/>
+          <SteadyState Duration="195" Power="0.45"/>
+          <SteadyState Duration="60" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="60" Power="1.13"/>
+          <SteadyState Duration="59" Power="0.65"/>
+          <SteadyState Duration="59" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="60" Power="1.13"/>
+          <SteadyState Duration="59" Power="0.65"/>
+          <SteadyState Duration="61" Power="1.13"/>
+          <SteadyState Duration="57" Power="0.65"/>
+          <SteadyState Duration="60" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="61" Power="1.13"/>
+          <SteadyState Duration="29" Power="0.65"/>
+          <SteadyState Duration="59" Power="1.13"/>
+          <Cooldown Duration="71" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

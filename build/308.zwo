@@ -1,0 +1,24 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute PZ Endurance - Christine D'Ercole - 08/09/20 @ 1:00PM ET</name>
+    <description>A 45 Minute PZ Endurance taught by Christine D'Ercole.  Originally aired on 08/09/20 @ 1:00PM ET.  Estimated TSS of 42.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/308</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="392" Power="0.5"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="89" Power="0.65"/>
+          <SteadyState Duration="90" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="842" Power="0.65"/>
+          <SteadyState Duration="892" Power="0.83"/>
+          <Cooldown Duration="63" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

@@ -1,0 +1,17 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>20 Minute PZ Beginner - Denis Morton - 12/11/17 @ 3:40PM ET</name>
+    <description>A 20 Minute PZ Beginner taught by Denis Morton.  Originally aired on 12/11/17 @ 3:40PM ET.  Estimated TSS of 15.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/266</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<Warmup Duration="600" PowerLow="0.5" PowerHigh="0.7"/>
+          <SteadyState Duration="90" Power="0.65"/>
+          <SteadyState Duration="90" Power="0.83"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="120" Power="0.65"/>
+          <SteadyState Duration="90" Power="0.83"/>
+          <Cooldown Duration="90" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

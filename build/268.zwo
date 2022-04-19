@@ -1,0 +1,49 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute Power Zone - Matt Wilpers - 05/15/17 @ 11:30AM ET</name>
+    <description>A 30 Minute Power Zone taught by Matt Wilpers.  Originally aired on 05/15/17 @ 11:30AM ET.  Estimated TSS of 41.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/268</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="240" Power="0.5"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="16" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="19" Power="0.45"/>
+          <SteadyState Duration="26" Power="0.5"/>
+          <SteadyState Duration="17" Power="0.45"/>
+          <SteadyState Duration="17" Power="0.5"/>
+          <SteadyState Duration="42" Power="0.45"/>
+          <SteadyState Duration="46" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="33" Power="1.13"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="115" Power="0.45"/>
+          <SteadyState Duration="50" Power="0.83"/>
+          <SteadyState Duration="10" Power="1.13"/>
+          <SteadyState Duration="50" Power="0.83"/>
+          <SteadyState Duration="10" Power="1.13"/>
+          <SteadyState Duration="46" Power="0.83"/>
+          <SteadyState Duration="14" Power="1.13"/>
+          <SteadyState Duration="46" Power="0.83"/>
+          <SteadyState Duration="14" Power="1.13"/>
+          <SteadyState Duration="41" Power="0.83"/>
+          <SteadyState Duration="19" Power="1.13"/>
+          <SteadyState Duration="39" Power="0.83"/>
+          <SteadyState Duration="21" Power="1.13"/>
+          <SteadyState Duration="34" Power="0.83"/>
+          <SteadyState Duration="24" Power="1.13"/>
+          <SteadyState Duration="37" Power="0.83"/>
+          <SteadyState Duration="24" Power="1.13"/>
+          <SteadyState Duration="29" Power="0.83"/>
+          <SteadyState Duration="30" Power="1.13"/>
+          <SteadyState Duration="31" Power="0.83"/>
+          <SteadyState Duration="30" Power="1.13"/>
+          <SteadyState Duration="119" Power="0.45"/>
+          <SteadyState Duration="122" Power="1.13"/>
+          <SteadyState Duration="104" Power="0.45"/>
+          <SteadyState Duration="61" Power="1.35"/>
+          <Cooldown Duration="73" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

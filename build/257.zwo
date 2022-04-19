@@ -1,0 +1,33 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute PZ Max - Christine D'Ercole - 06/28/20 @ 6:00PM ET</name>
+    <description>A 30 Minute PZ Max taught by Christine D'Ercole.  Originally aired on 06/28/20 @ 6:00PM ET.  Estimated TSS of 35.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/257</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="292" Power="0.5"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="36" Power="0.45"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="34" Power="0.45"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="85" Power="0.45"/>
+          <SteadyState Duration="122" Power="0.65"/>
+          <SteadyState Duration="56" Power="0.83"/>
+          <SteadyState Duration="61" Power="0.97"/>
+          <SteadyState Duration="60" Power="1.13"/>
+          <SteadyState Duration="31" Power="1.35"/>
+          <SteadyState Duration="19" Power="1.55"/>
+          <SteadyState Duration="186" Power="0.45"/>
+          <SteadyState Duration="25" Power="0.45"/>
+          <SteadyState Duration="16" Power="1.55"/>
+          <SteadyState Duration="224" Power="0.45"/>
+          <SteadyState Duration="20" Power="0.45"/>
+          <SteadyState Duration="19" Power="1.55"/>
+          <SteadyState Duration="291" Power="0.45"/>
+          <SteadyState Duration="21" Power="0.45"/>
+          <SteadyState Duration="17" Power="1.55"/>
+          <Cooldown Duration="92" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

@@ -1,0 +1,26 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute PZ Endurance - Denis Morton - 05/25/21 @ 8:00AM ET</name>
+    <description>A 30 Minute PZ Endurance taught by Denis Morton.  Originally aired on 05/25/21 @ 8:00AM ET.  Estimated TSS of 28.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/443</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="230" Power="0.5"/>
+          <SteadyState Duration="33" Power="0.5"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="76" Power="0.45"/>
+          <SteadyState Duration="94" Power="0.65"/>
+          <SteadyState Duration="90" Power="0.83"/>
+          <SteadyState Duration="36" Power="0.45"/>
+          <SteadyState Duration="214" Power="0.83"/>
+          <SteadyState Duration="196" Power="0.65"/>
+          <SteadyState Duration="238" Power="0.83"/>
+          <SteadyState Duration="204" Power="0.65"/>
+          <SteadyState Duration="209" Power="0.83"/>
+          <Cooldown Duration="61" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

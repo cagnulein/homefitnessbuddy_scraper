@@ -1,0 +1,42 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute PZ Max - Matt Wilpers - 09/11/17 @ 6:00AM ET</name>
+    <description>A 45 Minute PZ Max taught by Matt Wilpers.  Originally aired on 09/11/17 @ 6:00AM ET.  Estimated TSS of 78.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/188</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="275" Power="0.5"/>
+          <SteadyState Duration="28" Power="0.5"/>
+          <SteadyState Duration="17" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="18" Power="0.45"/>
+          <SteadyState Duration="23" Power="0.5"/>
+          <SteadyState Duration="17" Power="0.45"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="38" Power="0.45"/>
+          <SteadyState Duration="66" Power="0.83"/>
+          <SteadyState Duration="61" Power="0.97"/>
+          <SteadyState Duration="29" Power="1.13"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="240" Power="1.13"/>
+          <SteadyState Duration="184" Power="0.45"/>
+          <SteadyState Duration="176" Power="1.13"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="120" Power="1.35"/>
+          <SteadyState Duration="178" Power="0.45"/>
+          <SteadyState Duration="182" Power="1.13"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="118" Power="1.35"/>
+          <SteadyState Duration="64" Power="0.45"/>
+          <SteadyState Duration="57" Power="1.35"/>
+          <SteadyState Duration="184" Power="0.45"/>
+          <SteadyState Duration="26" Power="1.35"/>
+          <SteadyState Duration="30" Power="1.55"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="30" Power="1.35"/>
+          <SteadyState Duration="20" Power="1.55"/>
+          <Cooldown Duration="68" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

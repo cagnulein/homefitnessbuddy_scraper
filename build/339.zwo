@@ -1,0 +1,35 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute Power Zone - Olivia Amato - 10/18/20 @ 11:45AM ET</name>
+    <description>A 30 Minute Power Zone taught by Olivia Amato.  Originally aired on 10/18/20 @ 11:45AM ET.  Estimated TSS of 46.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/339</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="166" Power="0.5"/>
+          <SteadyState Duration="16" Power="0.5"/>
+          <SteadyState Duration="46" Power="0.45"/>
+          <SteadyState Duration="19" Power="0.5"/>
+          <SteadyState Duration="16" Power="0.45"/>
+          <SteadyState Duration="26" Power="0.5"/>
+          <SteadyState Duration="19" Power="0.45"/>
+          <SteadyState Duration="32" Power="0.5"/>
+          <SteadyState Duration="25" Power="0.45"/>
+          <SteadyState Duration="56" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="61" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="120" Power="0.97"/>
+          <SteadyState Duration="120" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="120" Power="0.97"/>
+          <SteadyState Duration="120" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="120" Power="0.97"/>
+          <SteadyState Duration="120" Power="1.13"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="119" Power="0.97"/>
+          <SteadyState Duration="120" Power="1.13"/>
+          <Cooldown Duration="58" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

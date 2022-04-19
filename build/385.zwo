@@ -1,0 +1,30 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute PZ Endurance - Olivia Amato - 01/22/21 @ 11:30AM ET</name>
+    <description>A 45 Minute PZ Endurance taught by Olivia Amato.  Originally aired on 01/22/21 @ 11:30AM ET.  Estimated TSS of 45.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/385</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="247" Power="0.5"/>
+          <SteadyState Duration="18" Power="0.5"/>
+          <SteadyState Duration="18" Power="0.45"/>
+          <SteadyState Duration="19" Power="0.5"/>
+          <SteadyState Duration="18" Power="0.45"/>
+          <SteadyState Duration="18" Power="0.5"/>
+          <SteadyState Duration="18" Power="0.45"/>
+          <SteadyState Duration="23" Power="0.5"/>
+          <SteadyState Duration="64" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.65"/>
+          <SteadyState Duration="60" Power="0.83"/>
+          <SteadyState Duration="98" Power="0.45"/>
+          <SteadyState Duration="360" Power="0.83"/>
+          <SteadyState Duration="181" Power="0.65"/>
+          <SteadyState Duration="361" Power="0.83"/>
+          <SteadyState Duration="178" Power="0.65"/>
+          <SteadyState Duration="359" Power="0.83"/>
+          <SteadyState Duration="182" Power="0.65"/>
+          <SteadyState Duration="359" Power="0.83"/>
+          <Cooldown Duration="59" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

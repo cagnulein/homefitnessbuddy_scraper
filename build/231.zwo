@@ -1,0 +1,36 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>90 Minute PZ Endurance - Matt Wilpers - 03/23/19 @ 12:45PM ET</name>
+    <description>A 90 Minute PZ Endurance taught by Matt Wilpers.  Originally aired on 03/23/19 @ 12:45PM ET.  Estimated TSS of 96.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/231</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="231" Power="0.5"/>
+          <SteadyState Duration="59" Power="0.5"/>
+          <SteadyState Duration="27" Power="0.45"/>
+          <SteadyState Duration="54" Power="0.5"/>
+          <SteadyState Duration="15" Power="0.45"/>
+          <SteadyState Duration="41" Power="0.5"/>
+          <SteadyState Duration="23" Power="0.45"/>
+          <SteadyState Duration="60" Power="0.5"/>
+          <SteadyState Duration="32" Power="0.45"/>
+          <SteadyState Duration="44" Power="0.5"/>
+          <SteadyState Duration="54" Power="0.45"/>
+          <SteadyState Duration="63" Power="0.65"/>
+          <SteadyState Duration="122" Power="0.83"/>
+          <SteadyState Duration="75" Power="0.45"/>
+          <SteadyState Duration="720" Power="0.83"/>
+          <SteadyState Duration="247" Power="0.65"/>
+          <SteadyState Duration="533" Power="0.83"/>
+          <SteadyState Duration="240" Power="0.65"/>
+          <SteadyState Duration="362" Power="0.83"/>
+          <SteadyState Duration="238" Power="0.65"/>
+          <SteadyState Duration="720" Power="0.83"/>
+          <SteadyState Duration="242" Power="0.65"/>
+          <SteadyState Duration="538" Power="0.83"/>
+          <SteadyState Duration="242" Power="0.65"/>
+          <SteadyState Duration="358" Power="0.83"/>
+          <Cooldown Duration="60" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

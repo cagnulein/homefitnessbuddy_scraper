@@ -1,0 +1,28 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute Power Zone - Christine D'Ercole - 09/20/20 @ 1:30PM ET</name>
+    <description>A 30 Minute Power Zone taught by Christine D'Ercole.  Originally aired on 09/20/20 @ 1:30PM ET.  Estimated TSS of 38.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/327</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="214" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="31" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="59" Power="0.65"/>
+          <SteadyState Duration="62" Power="0.83"/>
+          <SteadyState Duration="59" Power="0.97"/>
+          <SteadyState Duration="29" Power="1.13"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="199" Power="0.65"/>
+          <SteadyState Duration="239" Power="0.97"/>
+          <SteadyState Duration="182" Power="0.65"/>
+          <SteadyState Duration="235" Power="0.97"/>
+          <SteadyState Duration="166" Power="1.13"/>
+          <Cooldown Duration="87" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

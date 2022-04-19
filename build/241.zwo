@@ -1,0 +1,40 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute PZ Max - Denis Morton - 05/29/20 @ 5:00PM ET</name>
+    <description>A 30 Minute PZ Max taught by Denis Morton.  Originally aired on 05/29/20 @ 5:00PM ET.  Estimated TSS of 54.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/241</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="244" Power="0.5"/>
+          <SteadyState Duration="28" Power="0.83"/>
+          <SteadyState Duration="32" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.97"/>
+          <SteadyState Duration="30" Power="0.45"/>
+          <SteadyState Duration="34" Power="1.13"/>
+          <SteadyState Duration="27" Power="0.45"/>
+          <SteadyState Duration="33" Power="1.35"/>
+          <SteadyState Duration="87" Power="0.45"/>
+          <SteadyState Duration="59" Power="0.83"/>
+          <SteadyState Duration="60" Power="0.97"/>
+          <SteadyState Duration="28" Power="1.13"/>
+          <SteadyState Duration="32" Power="1.35"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="118" Power="1.13"/>
+          <SteadyState Duration="58" Power="0.45"/>
+          <SteadyState Duration="119" Power="1.13"/>
+          <SteadyState Duration="121" Power="0.45"/>
+          <SteadyState Duration="60" Power="1.35"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="60" Power="1.35"/>
+          <SteadyState Duration="122" Power="0.45"/>
+          <SteadyState Duration="26" Power="1.55"/>
+          <SteadyState Duration="32" Power="0.45"/>
+          <SteadyState Duration="29" Power="1.55"/>
+          <SteadyState Duration="32" Power="0.45"/>
+          <SteadyState Duration="28" Power="1.55"/>
+          <SteadyState Duration="32" Power="0.45"/>
+          <SteadyState Duration="30" Power="1.55"/>
+          <Cooldown Duration="87" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

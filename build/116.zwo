@@ -1,0 +1,17 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute Power Zone - Denis Morton - 09/24/18 @ 11:30AM ET</name>
+    <description>A 30 Minute Power Zone taught by Denis Morton.  Originally aired on 09/24/18 @ 11:30AM ET.  Estimated TSS of 41.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/116</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<Warmup Duration="780" PowerLow="0.5" PowerHigh="0.7"/>
+          <SteadyState Duration="120" Power="1.35"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="180" Power="1.13"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="420" Power="0.97"/>
+          <Cooldown Duration="60" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

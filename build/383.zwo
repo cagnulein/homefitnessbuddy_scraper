@@ -1,0 +1,48 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute PZ Max - Olivia Amato - 01/18/21 @ 6:00AM ET</name>
+    <description>A 30 Minute PZ Max taught by Olivia Amato.  Originally aired on 01/18/21 @ 6:00AM ET.  Estimated TSS of 51.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/383</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="139" Power="0.5"/>
+          <SteadyState Duration="19" Power="0.5"/>
+          <SteadyState Duration="20" Power="0.45"/>
+          <SteadyState Duration="20" Power="0.5"/>
+          <SteadyState Duration="20" Power="0.45"/>
+          <SteadyState Duration="19" Power="0.5"/>
+          <SteadyState Duration="40" Power="0.45"/>
+          <SteadyState Duration="19" Power="0.5"/>
+          <SteadyState Duration="20" Power="0.45"/>
+          <SteadyState Duration="19" Power="0.5"/>
+          <SteadyState Duration="27" Power="0.45"/>
+          <SteadyState Duration="64" Power="0.83"/>
+          <SteadyState Duration="54" Power="0.97"/>
+          <SteadyState Duration="33" Power="1.13"/>
+          <SteadyState Duration="31" Power="1.35"/>
+          <SteadyState Duration="59" Power="0.45"/>
+          <SteadyState Duration="120" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="120" Power="1.13"/>
+          <SteadyState Duration="120" Power="0.45"/>
+          <SteadyState Duration="60" Power="1.35"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="58" Power="1.35"/>
+          <SteadyState Duration="122" Power="0.45"/>
+          <SteadyState Duration="20" Power="1.55"/>
+          <SteadyState Duration="41" Power="0.45"/>
+          <SteadyState Duration="19" Power="1.55"/>
+          <SteadyState Duration="40" Power="0.45"/>
+          <SteadyState Duration="19" Power="1.55"/>
+          <SteadyState Duration="42" Power="0.45"/>
+          <SteadyState Duration="19" Power="1.55"/>
+          <SteadyState Duration="42" Power="0.45"/>
+          <SteadyState Duration="18" Power="1.55"/>
+          <SteadyState Duration="36" Power="0.45"/>
+          <SteadyState Duration="18" Power="1.55"/>
+          <SteadyState Duration="75" Power="0.45"/>
+          <SteadyState Duration="29" Power="1.55"/>
+          <Cooldown Duration="59" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

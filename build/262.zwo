@@ -1,0 +1,16 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>20 Minute PZ Beginner - Christine D'Ercole - 02/20/20 @ 3:30PM ET</name>
+    <description>A 20 Minute PZ Beginner taught by Christine D'Ercole.  Originally aired on 02/20/20 @ 3:30PM ET.  Estimated TSS of 17.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/262</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<Warmup Duration="750" PowerLow="0.5" PowerHigh="0.7"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="90" Power="0.65"/>
+          <SteadyState Duration="120" Power="0.83"/>
+          <SteadyState Duration="120" Power="0.97"/>
+          <Cooldown Duration="60" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

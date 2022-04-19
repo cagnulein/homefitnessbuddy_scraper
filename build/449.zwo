@@ -1,0 +1,27 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>30 Minute Power Zone - Ben Alldis - 06/04/21 @ 3:30AM ET</name>
+    <description>A 30 Minute Power Zone taught by Ben Alldis.  Originally aired on 06/04/21 @ 3:30AM ET.  Estimated TSS of 37.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/449</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="249" Power="0.5"/>
+          <SteadyState Duration="28" Power="0.5"/>
+          <SteadyState Duration="24" Power="0.45"/>
+          <SteadyState Duration="29" Power="0.5"/>
+          <SteadyState Duration="21" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="51" Power="0.45"/>
+          <SteadyState Duration="55" Power="0.65"/>
+          <SteadyState Duration="27" Power="0.83"/>
+          <SteadyState Duration="32" Power="0.97"/>
+          <SteadyState Duration="56" Power="0.45"/>
+          <SteadyState Duration="301" Power="0.97"/>
+          <SteadyState Duration="119" Power="0.65"/>
+          <SteadyState Duration="300" Power="0.97"/>
+          <SteadyState Duration="122" Power="0.65"/>
+          <SteadyState Duration="298" Power="0.97"/>
+          <Cooldown Duration="58" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>

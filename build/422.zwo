@@ -1,0 +1,44 @@
+<workout_file>
+    <author>Home Fitness Buddy</author>
+    <name>45 Minute Power Zone - Denis Morton - 04/13/21 @ 8:00AM ET</name>
+    <description>A 45 Minute Power Zone taught by Denis Morton.  Originally aired on 04/13/21 @ 8:00AM ET.  Estimated TSS of 66.  Timer Link: https://app.homefitnessbuddy.com/peloton/powerzone/details/422</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+<SteadyState Duration="272" Power="0.5"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.45"/>
+          <SteadyState Duration="31" Power="0.5"/>
+          <SteadyState Duration="29" Power="0.45"/>
+          <SteadyState Duration="32" Power="0.5"/>
+          <SteadyState Duration="28" Power="0.45"/>
+          <SteadyState Duration="30" Power="0.5"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="61" Power="0.83"/>
+          <SteadyState Duration="58" Power="0.97"/>
+          <SteadyState Duration="32" Power="1.13"/>
+          <SteadyState Duration="29" Power="1.35"/>
+          <SteadyState Duration="59" Power="0.45"/>
+          <SteadyState Duration="180" Power="0.97"/>
+          <SteadyState Duration="59" Power="0.45"/>
+          <SteadyState Duration="181" Power="0.97"/>
+          <SteadyState Duration="59" Power="0.45"/>
+          <SteadyState Duration="123" Power="1.13"/>
+          <SteadyState Duration="57" Power="0.45"/>
+          <SteadyState Duration="120" Power="1.13"/>
+          <SteadyState Duration="61" Power="0.45"/>
+          <SteadyState Duration="61" Power="1.35"/>
+          <SteadyState Duration="58" Power="0.45"/>
+          <SteadyState Duration="60" Power="1.35"/>
+          <SteadyState Duration="59" Power="0.45"/>
+          <SteadyState Duration="121" Power="1.13"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="122" Power="1.13"/>
+          <SteadyState Duration="58" Power="0.45"/>
+          <SteadyState Duration="121" Power="0.97"/>
+          <SteadyState Duration="60" Power="0.45"/>
+          <SteadyState Duration="238" Power="0.97"/>
+          <Cooldown Duration="61" PowerLow="0.5" PowerHigh="0.45"/>
+          </workout>
+</workout_file>
